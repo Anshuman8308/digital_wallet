@@ -43,8 +43,8 @@ API runs at: http://localhost:5000
 - Set `CORS_ORIGIN` in backend env to your Vercel URL
 
 ## Test Flow
-1. Register two users (alice@test.com, bob@test.com)
-2. Login as Alice → Deposit ₹5000
-3. Transfer ₹1000 to bob@test.com
+1. Register two users (anshuman@test.com, ansh@test.com)
+2. Login as Anshuman → Deposit ₹5000
+3. Transfer ₹1000 to ansh@test.com
 4. Check transactions for both users
 5. Export CSV
