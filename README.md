@@ -3,7 +3,7 @@
 Full-stack digital wallet with peer-to-peer transfers, JWT auth, and atomic transactions.
 
 ## Tech Stack
-- **Frontend**: React 18 + Vite + Tailwind CSS + Zustand
+- **Frontend**: React 18 + Vite + Tailwind CSS 
 - **Backend**: Node.js + Express.js
 - **Database**: MongoDB + Mongoose
 - **Auth**: JWT (Access + Refresh tokens, HttpOnly cookies)
